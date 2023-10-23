@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isac Deva Abishek</h1>
 <h3 align="center">A Fresher In FullStack WEB development</h3>
 
-- 🌱 I’m currently learning **Ruby,React,Scss,Batch**
+- 🌱 I’m currently learning **Ruby,React,Scss,Batch,Ember**
 
 - 👨‍💻 All of my projects are available at [https://isacportfolio.netlify.app/](https://isacportfolio.netlify.app/)
 
