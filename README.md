@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Ruby,React,Scss,Batch,Ember**
 
-- 👨‍💻 All of my projects are available at [https://isacportfolio.netlify.app/](https://isacportfolio.netlify.app/)
 
 - 📫 How to reach me **isacdevaabishek2@gmail.com**
  <br>
